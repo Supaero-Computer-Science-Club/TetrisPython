@@ -1,0 +1,18 @@
+/* Pieces list*/
+
+{id=0, size=2, color_id=17, piece=[##:##]};
+
+{id=1, size=4, color_id=18, piece=[ #  : #  : #  : #  ]};
+
+{id=2, size=3, color_id=19, piece=[ ##:## :   ]};
+
+{id=3, size=3, color_id=20, piece=[## : ##:   ]};
+
+{id=4, size=3, color_id=21, piece=[#  :###:   ]};
+
+{id=5, size=3, color_id=22, piece=[  #:###:   ]};
+
+{id=6, size=3, color_id=23, piece=[ # :###:   ]};
+
+/*Disabled pieces*/
+/*{id=7, size=3, color_id=24, piece=[ # :###: # ]};*/
